@@ -5,9 +5,9 @@
 Web dynamic refers to the ability of a website or web application to change or update its content and functionality in real-time based on user interactions and data input. Dynamic web pages allow for more interactive and engaging experiences for users, as well as personalized content and recommendations. A segment of the AirBnB project at Holberton School
 
 ## Resources
-####<i>Read or watch:</i>
+#### <i>Read or watch:</i>
 
-- [Selector]](https://intranet.alxswe.com/rltoken/Bl2mJVVG07XCP6E8qtsQMg)
+- [Selector](https://intranet.alxswe.com/rltoken/Bl2mJVVG07XCP6E8qtsQMg)
 - [Get and set content](https://intranet.alxswe.com/rltoken/oM3b0a0FGTy6AQ_UJ201Yw)
 - [Manipulate CSS classes](https://intranet.alxswe.com/rltoken/LL2uScQvjWnj2ZEx2CzxXw)
 - [Manipulate DOM elements](https://intranet.alxswe.com/rltoken/6JtTz9SaNX3AyVXht4tMYA)
